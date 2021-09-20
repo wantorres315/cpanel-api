@@ -1,0 +1,17 @@
+{
+  "name": "zanysoft/cpanel-api",
+  "description": "Cpanel's API",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Zany Soft",
+      "email": "info@zanysoft.co"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "ZanySoft\\Cpanel\\": "src/"
+    }
+  }
+}
